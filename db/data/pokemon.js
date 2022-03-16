@@ -21,7 +21,7 @@ export default [
     pokedexEntry:
       'Th\'re is a large floweth\'r on venusaur\'s backeth.  The floweth\'r is hath said to taketh on vivid col\'rs if \'t be true t gets plenty of nutrition and sunlight.  The floweth\'r\'s aroma soothes the emotions of people.',
     image:
-      'https://i.imgur.com/meuQiWW.png',
+      'https://i.imgur.com/yDkBge7.png',
   },
   {
     number: 4,

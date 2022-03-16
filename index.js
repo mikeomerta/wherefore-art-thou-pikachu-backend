@@ -8,7 +8,7 @@ const app = express()
 
 app.use(express.json())
 app.use('/', logger)
-app.use(router)
+app.use('/api', router)
 
 async function startServer() {
   try {
