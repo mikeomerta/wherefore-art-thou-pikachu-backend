@@ -203,1414 +203,1006 @@ export default [
     number: 26,
     name: 'Raichu',
     pokedexEntry:
-      'Its tail discharges electricity into the ground, protecting it from getting shocked.',
-    image:'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png',
+      'If \'t be true the electrical sacs becometh excessively did charge, raichu plants its tail in the did grind and discharges.  Sc\'rch\'d patches of did grind shall beest hath found near this pokémon\'s aery.',
+    image: 'https://i.imgur.com/rmL7Bn3.png',
   },
   {
     number: 27,
     name: 'Sandshrew',
     pokedexEntry:
-      'Burrows deep underground in arid locations far from water. It only emerges to hunt for food.',
+      'Sandshrew\'s corse is configur\'d to abs\'rb wat\'r without wasteth, enabling t to survive in an arid des\'rt.  This pokémon crisps up to protecteth itself from its enemies.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png',
+      'https://i.imgur.com/qXxCiRN.png',
   },
   {
     number: 28,
     name: 'Sandslash',
     pokedexEntry:
-      'Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape.',
+      'Sandslash\'s corse is cov\'r\'d by tough spikes, which art harden\'d sections of its hideth. Once a year, the fusty spikes falleth out, to beest did replace with new spikes yond groweth out from beneath the fusty ones.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png',
+      'https://i.imgur.com/vgfcAlc.png',
   },
   {
     number: 29,
     name: 'Nidoran-f',
     pokedexEntry:
-      'Although small, its venomous barbs render this POKéMON dangerous. The female has smaller horns.',
+      'Nid\'ran-f hast barbs yond secrete a pow\'rful poison.  Those gents art bethought to has\'t did develop as protection f\'r this small-bodi\'d pokémon. At which hour enraged, t releases a h\'rrible toxin from its h\'rn.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png',
+      'https://i.imgur.com/kdfmtyy.png',
   },
   {
     number: 30,
     name: 'Nidorina',
     pokedexEntry:
-      'The female\'s horn develops slowly. Prefers physical attacks such as clawing and biting.',
+      'At which hour nid\'rina art with their cater-cousins \'r family, those gents keepeth their barbs tuck\'d hence to preventeth hurting each oth\'r.  This pokémon appears to becometh n\'rvous if \'t be true did separate from the oth\'rs.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png',
+      'https://i.imgur.com/zE74xzu.png',
   },
   {
     number: 31,
     name: 'Nidoqueen',
     pokedexEntry:
-      'Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves.',
+      'Nidoqueen\'s corse is encas\'d in extremely hard scales.  T is adept at sending foes flying with harsh tackles.  This pokémon is at its strongest at which hour t is defending its young.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png',
+      'https://i.imgur.com/2JEYpCV.png',
   },
   {
     number: 32,
     name: 'Nidoran-m',
     pokedexEntry:
-      'Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom.',
+      'Nid\'ran-m hast did develop muscles f\'r moving its ears.  Grant you mercy to those folk, the ears can beest freely hath moved in any direction.  Coequal the slightest soundeth doest not escapeth this pokémon\'s noticeth.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png',
+      'https://i.imgur.com/6XcrUHF.png',
   },
   {
     number: 33,
     name: 'Nidorino',
     pokedexEntry:
-      'An aggressive POKéMON that is quick to attack. The horn on its head secretes a powerful venom.',
+      'Nid\'rino hast a h\'rn yond is hard\'r than a diamond.  If \'t be true t senses a hostile presence, all the barbs on its backeth bristle up betimes, and t challenges the foe with all its might.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png',
+      'https://i.imgur.com/5oPcMxO.png',
   },
   {
     number: 34,
     name: 'Nidoking',
     pokedexEntry:
-      'One swing of its mighty tail can snap a telephone pole as if it were a matchstick.',
+      'Nidoking\'s thick tail packs en\'rmously destructive pow\'r.  With one swingeth, t can topple a metal transmission toweth\'r.  Once this pokémon goeth on a rampage, th\'re is nay stopping t.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png',
+      'https://i.imgur.com/XKZOuLp.png',
   },
   {
     number: 35,
     name: 'Clefairy',
     pokedexEntry:
-      'Its magical and cute appeal has many admirers. It is rare and found only in certain areas.',
+      'On ev\'ry night of a full moon, groups of this pokémon cometh out to playeth.  At which hour dawn arrives, the not restful clefairy returneth to their quiet mountain retreats and wend to catch but a wink nestl\'d up \'gainst each oth\'r.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png',
+      'https://i.imgur.com/mxFYjYt.png',
   },
   {
     number: 36,
     name: 'Clefable',
     pokedexEntry:
-      'A timid fairy POKéMON that is rarely seen. It will run and hide the moment it senses people.',
+      'Clefable moves by skipping lightly as if \'t be true t w\'re flying using its wings.  Its bouncy grise lets t coequal walketh on wat\'r.  T is known to taketh strolls on lakes on quiet, moonlit nights.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png',
+      'https://i.imgur.com/njgaB2n.png',
   },
   {
     number: 37,
     name: 'Vulpix',
     pokedexEntry:
-      'At the time of birth, it has just one tail. The tail splits from its tip as it grows older.',
+      'At the timeth of its birth, vulpix hast one white tail.  The tail separates into six if \'t be true this pokémon receives plenty of loveth from its traineth\'r.  The six tails becometh magnificently curl\'d.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png',
+      'https://i.imgur.com/FIUoqV3.png',
   },
   {
     number: 38,
     name: 'Ninetales',
     pokedexEntry:
-      'Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse.',
+      'Ninetales casts a sinist\'r lighteth from its bright r\'d eyes to gain total controleth ov\'r its foe\'s mind.  This pokémon is hath said to liveth f\'r a thousand years.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png',
+      'https://i.imgur.com/5CLIQ8t.png',
   },
   {
     number: 39,
     name: 'Jigglypuff',
-    types: ['Normal', 'Fairy'],
     pokedexEntry:
-      'When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.',
-    habitat: 'Grassland',
-    sprite:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png',
+      'Jigglypuff\'s vocal c\'rds can freely adjust the wavelength of its voice.  This pokémon uses this ability to singeth at precisely the right wavelength to maketh its foes most drowsy.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png',
+      'https://i.imgur.com/6SY6wIc.png',
   },
   {
     number: 40,
     name: 'Wigglytuff',
     pokedexEntry:
-      'The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size.',
+      'Wigglytuff hast large, sauc\'rlike eyes.  The surfaces of its eyes art at each moment cov\'r\'d with a thin did lie\'r of drops of sorrow.  If \'t be true any dusteth gets in this pokémon\'s eyes, t is apace wash\'d hence.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png',
+      'https://i.imgur.com/PiuJrZs.png',
   },
   {
     number: 41,
     name: 'Zubat',
     pokedexEntry:
-      'Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets.',
+      'Zubat remains quietly unmoving in a dark spoteth during the bright daylight hours.  T doest so because prolong\'d exposure to the travelling lamp causes its corse to becometh slightly burn\'d.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png',
+      'https://i.imgur.com/tzxtyaz.png',
   },
   {
     number: 42,
     name: 'Golbat',
     pokedexEntry:
-      'Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly.',
+      'Golbat loves to drinketh the blood of living things.  T is particularly factious in the pitch black of night.  This pokémon flits \'round in the night skies, seeking green blood.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png',
+      'https://i.imgur.com/PgGPtzl.png',
   },
   {
     number: 43,
     name: 'Oddish',
     pokedexEntry:
-      'During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds.',
-    image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png',
+      'During the daytime, oddish buries itself in soil to abs\'rb nutrients from the did grind using its entire corse.  The m\'re f\'rtile the soil, the glossi\'r its leaves becometh.',
+    image: 'https://i.imgur.com/EDktIhK.png',
   },
   {
     number: 44,
     name: 'Gloom',
     pokedexEntry:
-      'It secretes a sticky, drool-like honey. Although sweet, it smells too repulsive to get very close.',
+      'Gloom releases a foul fragrance from the pistil of its floweth\'r.  At which hour did face with dang\'r, the stench w\'rsens.  If \'t be true this pokémon is humour halcyon and secureth, t doest not releaseth its usual stinky aroma.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png',
+      'https://i.imgur.com/GEM1bOp.png',
   },
   {
     number: 45,
     name: 'Vileplume',
     pokedexEntry:
-      'It has the world\'s largest petals. With every step, the petals shake out heavy clouds of toxic pollen.',
+      'Vileplume\'s toxic pollen trigg\'rs atrocious all\'rgy attacks.  Yond\'s wherefore t is advisable nev\'r to approach any attractive floweth\'rs in a jungle, howev\'r quaint those gents may beest.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png',
+      'https://i.imgur.com/bEfLOxn.png',
   },
   {
     number: 46,
     name: 'Paras',
     pokedexEntry:
-      'Burrows to suck tree roots. The mushrooms on its back grow by draw\u00ad ing nutrients from the bug host.',
+      'Paras hast parasitic mushrumps growing on its backeth hath called tochukaso.  Those gents groweth large by drawing nutrients from this bug pokémon host.  Those gents art highly did value as a medicine f\'r extending life.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png',
+      'https://i.imgur.com/xcWDyxr.png',
   },
   {
     number: 47,
     name: 'Parasect',
     pokedexEntry:
-      'A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places.',
+      'Parasect is known to infest large trees en masse and draineth nutrients from the base\'r trunk and roots.  At which hour an did infest tree dies, those gents moveth onto anoth\'r tree all betimes.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png',
+      'https://i.imgur.com/gRVZpkK.png',
   },
   {
     number: 48,
     name: 'Venonat',
     pokedexEntry:
-      'Lives in the shadows of tall trees where it eats insects. It is attracted by light at night.',
+      'Venonat is hath said to has\'t evolv\'d with a coat of thin, stiff hair yond cov\'rs its entire corse f\'r protection. T possesses large eyes yond nev\'r faileth to spoteth coequal minuscule prey.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png',
+      'https://i.imgur.com/ejytBYn.png',
   },
   {
     number: 49,
     name: 'Venomoth',
     pokedexEntry:
-      'The dust-like scales covering its wings are color coded to indicate the kinds of poison it has.',
+      'Venomoth is nocturnal—it is a pokémon yond only becomes factious at night.  Its fav\'rite prey art bawbling insects yond gath\'r \'round streetlights, did attract by the lighteth in the darkness.',
     image:
-      'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png',
+      'https://i.imgur.com/u9EB6Er.png',
+  },
+  {
+    number: 50,
+    name: 'Diglett',
+    pokedexEntry:
+      'Diglett art hath raised in most farms.  The reasoneth is simple—wh\'rev\'r this pokémon burrows, the soil is hath left p\'rfectly till\'d f\'r planting crops.  This soil is madeth ideal f\'r growing delicious vegetables.',
+    image:
+      'https://i.imgur.com/2tbQK3M.png',
+  },
+  {
+    number: 51,
+    name: 'Dugtrio',
+    pokedexEntry:
+      'Dugtrio art actually triplets yond em\'rg\'d from one corse.  As a result, each triplet thinkest jump liketh the oth\'r two triplets.  Those gents w\'rk coop\'ratively to burrow endlessly.',
+    image:
+      'https://i.imgur.com/UMdNhQa.png',
+  },
+  {
+    number: 52,
+    name: 'Meowth',
+    pokedexEntry:
+      'Meowth withdraws its sharp claws into its paws to slinkily sneaketh about without making any incriminating footsteps.  F\'r some reasoneth, this pokémon loves shiny chinks yond glitt\'r with lighteth.',
+    image:
+      'https://i.imgur.com/51Fk7jU.png',
+  },
+  {
+    number: 53,
+    name: 'Persian',
+    pokedexEntry:
+      'P\'rsian hast six bold whisk\'rs yond giveth t a behold of toughness.  The whisk\'rs senseth air movements to det\'rmine what is in the pokémon\'s surrounding vicinity.  T becomes docile if \'t be true did grab by the whisk\'rs.',
+    image:
+      'https://i.imgur.com/AkmqFbi.png',
+  },
+  {
+    number: 54,
+    name: 'Psyduck',
+    pokedexEntry:
+      'Psyduck uses a myst\'rious pow\'r.  At which hour t doest so, this pokémon gen\'rates brain waves yond art supposedly only seen in catch but a wink\'rs.  This discov\'ry spurr\'d controv\'rsy \'mongst scholars.',
+    image:
+      'https://i.imgur.com/1zxu0lV.png',
+  },
+  {
+    number: 55,
+    name: 'Golduck',
+    pokedexEntry:
+      'The webb\'d flipp\'rs on its f\'relegs and hind forks and the streamlin\'d corse of golduck giveth t frightening speedeth.  This pokémon is forsooth much festinate\'r than coequal the most athletic swimm\'r.',
+    image:
+      'https://i.imgur.com/XbajQDI.png',
+  },
+  {
+    number: 56,
+    name: 'Mankey',
+    pokedexEntry:
+      'At which hour mankey starts shaking and its nasal breathing turns rough, t\'s a sure signeth yond t is becoming fell.  Howev\'r, because t goeth into a toweth\'ring rage almost instantly, t is impossible f\'r anyone to fleeth its wrath.',
+    image:
+      'https://i.imgur.com/ExKAx3y.png',
+  },
+  {
+    number: 57,
+    name: 'Primeape',
+    pokedexEntry:
+      'At which hour primeape becomes furious, its blood circulation is boost\'d.  In turneth, its muscles art madeth coequal stout\'r.  Howev\'r, t eke becomes much less intelligent at the same timeth.',
+    image:
+      'https://i.imgur.com/Ac0S8tL.png',
+  },
+  {
+    number: 58,
+    name: 'Growlithe',
+    pokedexEntry:
+      'Growlithe hast a sup\'rb senseth of smelleth.  Once t smells aught, this pokémon wonneth\'t f\'rget the scent, nay matt\'r what.  T uses its advanc\'d olfact\'ry senseth to det\'rmine the emotions of oth\'r living things.',
+    image:
+      'https://i.imgur.com/8UlfspG.png',
+  },
+  {
+    number: 59,
+    name: 'Arcanine',
+    pokedexEntry:
+      'Arcanine is known f\'r its high speedeth.  T is hath said to beest capable of running ov\'r 6,200 miles in a single day and night.  The fireth yond blazes wildly within this pokémon\'s corse is its source of pow\'r.',
+    image:
+      'https://i.imgur.com/BEKnv9K.png',
+  },
+  {
+    number: 60,
+    name: 'Poliwag',
+    pokedexEntry:
+      'Poliwag hast a v\'ry thin skin.  T is possible to seeth the pokémon\'s spiral innards right through the skin.  Despite its thinness, howev\'r, the skin is eke v\'ry flexible.  Coequal sharp fangs bounceth right off t.',
+    image:
+      'https://i.imgur.com/W5VvMEv.png',
+  },
+  {
+    number: 61,
+    name: 'Poliwhirl',
+    pokedexEntry:
+      'The surface of poliwhirl\'s corse is at each moment did wet and slick with a slimy fluid.  Because of this slipp\'ry cov\'ring, t can easily slipeth and slideth out of the clutches of any foe in hurlyburly.',
+    image:
+      'https://i.imgur.com/A47SMnE.png',
+  },
+  {
+    number: 62,
+    name: 'Poliwrath',
+    pokedexEntry:
+      'Poliwrath\'s highly did develop, brawny muscles nev\'r groweth fatigued, howev\'r much t ex\'rcises.  T is so tirelessly stout, this pokémon can swimeth backeth and f\'rth across the ocean without eff\'rt.',
+    image:
+      'https://i.imgur.com/zxrexPU.png',
+  },
+  {
+    number: 63,
+    name: 'Abra',
+    pokedexEntry:
+      'Abra sleeps f\'r 18 hours a day.  Howev\'r, t can senseth the presence of foes coequal while t is sleeping.  In such a situation, this pokémon immediately telep\'rts to safety.',
+    image:
+      'https://i.imgur.com/tmNDWHO.png',
+  },
+  {
+    number: 64,
+    name: 'Kadabra',
+    pokedexEntry:
+      'Kadabra emits a peculiar alpha waft if \'t be true t develops a headache.  Only those people with a particularly stout psyche can desire to becometh a traineth\'r of this pokémon.',
+    image:
+      'https://i.imgur.com/DlMy3gj.png',
+  },
+  {
+    number: 65,
+    name: 'Alakazam',
+    pokedexEntry:
+      'Alakazam\'s brain continually grows, making its headeth far too heavy to supp\'rt with its neck.  This pokémon holds its headeth up using its psychokinetic pow\'r instead.',
+    image:
+      'https://i.imgur.com/IyAqJ2d.png',
+  },
+  {
+    number: 66,
+    name: 'Machop',
+    pokedexEntry:
+      'Machop\'s muscles art special—they nev\'r receiveth s\'re nay matt\'r how much those gents art hath used in ex\'rcise.  This pokémon hast sufficient pow\'r to hurl a hundr\'d adult humans.',
+    image:
+      'https://i.imgur.com/nQZZW1c.png',
+  },
+  {
+    number: 67,
+    name: 'Machoke',
+    pokedexEntry:
+      'Machoke\'s th\'roughly ton\'d muscles possesseth the hardness of steel.  This pokémon hast so much strength, t can easily holdeth aloft a sumo wrestl\'r on just one fing\'r.',
+    image:
+      'https://i.imgur.com/KjQEBbJ.png',
+  },
+  {
+    number: 68,
+    name: 'Machamp',
+    pokedexEntry:
+      'Machamp hast the pow\'r to hurl aught aside.  Howev\'r, trying to doth any w\'rk requiring careth and dext\'rity causes its arms to receiveth tangl\'d.  This pokémon tends to leapeth into action bef\'re t thinkest.',
+    image:
+      'https://i.imgur.com/cGWN8DH.png',
+  },
+  {
+    number: 69,
+    name: 'Bellsprout',
+    pokedexEntry:
+      'Bellsprout\'s thin and flexible corse lets t bendeth and sway to avoideth any attacketh, howev\'r stout t may beest.  From its that from which we speak, this pokémon spits a c\'rrosive fluid yond melts coequal iron.',
+    image:
+      'https://i.imgur.com/zvswmre.png',
+  },
+  {
+    number: 70,
+    name: 'Weepinbell',
+    pokedexEntry:
+      'Weepinbell hast a large hooketh on its rear endeth.  At night, the pokémon hooks on to a tree brancheth and goeth to catch but a wink.  If \'t be true t moves \'round in its catch but a wink, t may waketh up to findeth itself on the did grind.',
+    image:
+      'https://i.imgur.com/LzjcXkj.png',
+  },
+  {
+    number: 71,
+    name: 'Victreebel',
+    pokedexEntry:
+      'Victreebel hast a longeth vine yond extends from its headeth.  This vine is did wave and flick\'d about as if \'t be true t w\'re an animal to attracteth prey.  At which hour an unsuspecting prey draws near, this pokémon swallows t whole.',
+    image:
+      'https://i.imgur.com/F0OyJdE.png',
+  },
+  {
+    number: 72,
+    name: 'Tentacool',
+    pokedexEntry:
+      'Tentacool\'s corse is largely compos\'d of wat\'r.  If \'t be true t is did remove from the flote, t dries up liketh parchment.  If \'t be true this pokémon happeneth to becometh dehydrated, putteth t backeth into the flote.',
+    image:
+      'https://i.imgur.com/wRqNBKk.png',
+  },
+  {
+    number: 73,
+    name: 'Tentacruel',
+    pokedexEntry:
+      'Tentacruel hast large r\'d \'rbs on its headeth.  The \'rbs gloweth bef\'re lashing the vicinity with a harsh ultrasonic fie.  This pokémon\'s outburst creates rough waves \'round t.',
+    image:
+      'https://i.imgur.com/Gr8CLUM.png',
+  },
+  {
+    number: 74,
+    name: 'Geodude',
+    pokedexEntry:
+      'The longeth\'r a geodude liveth, the m\'re its edges art did chip and w\'rn hence, making t m\'re round\'d in compliment extern.  Howev\'r, this pokémon\'s heart shall remaineth hard, craggy, and rough at each moment.',
+    image:
+      'https://i.imgur.com/q9GWBBT.png',
+  },
+  {
+    number: 75,
+    name: 'Graveler',
+    pokedexEntry:
+      'Gravel\'r grows by feeding on rocks.  Apparently, t pref\'rs to consume rocks yond art cov\'r\'d in moss.  This pokémon engluts its way through a ton of rocks on a daily basis.',
+    image:
+      'https://i.imgur.com/AgobUmD.png',
+  },
+  {
+    number: 76,
+    name: 'Golem',
+    pokedexEntry:
+      'Golem liveth up on mountains.  If it be true th\'re is a large earthquake, these pokémon shall cometh rolling down off the mountains en masse to the foothills below.',
+    image:
+      'https://i.imgur.com/aBMgjZP.png',
+  },
+  {
+    number: 77,
+    name: 'Ponyta',
+    pokedexEntry:
+      'Ponyta is v\'ry weak at birth.  T can barely standeth up.  This pokémon becomes stout\'r by stumbling and falling to keepeth up with its parent.',
+    image:
+      'https://i.imgur.com/XjE45qg.png',
+  },
+  {
+    number: 78,
+    name: 'Rapidash',
+    pokedexEntry:
+      'Rapidash usually can beest seen casually cant\'ring in the fields and plains.  Howev\'r, at which hour this pokémon turns s\'rious, its fi\'ry manes flare and blaze as t gallops its way up to 150 mph.',
+    image:
+      'https://i.imgur.com/A8N7LwB.png',
+  },
+  {
+    number: 79,
+    name: 'Slowpoke',
+    pokedexEntry:
+      'Slowpoke uses its tail to catcheth prey by dipping t in wat\'r at the side of a riv\'r.  Howev\'r, this pokémon oft f\'rgets what t\'s doing and oft spends entire days just loafing at wat\'r\'s edge.',
+    image:
+      'https://i.imgur.com/QyjwtUR.png',
+  },
+  {
+    number: 80,
+    name: 'Slowbro',
+    pokedexEntry:
+      'Slowbro\'s tail hast a shelld\'r firmly attach\'d with a biteth.  As a result, the tail can\'t beest hath used f\'r fishing anym\'re.  This causes slowbro to grudgingly swimeth and catcheth prey instead.',
+    image:
+      'https://i.imgur.com/4uSRBWt.png',
+  },
+  {
+    number: 81,
+    name: 'Magnemite',
+    pokedexEntry:
+      'Magnemite attaches itself to pow\'r lines to feedeth on electricity.  If \'t be true thy house hast a pow\'r outage, checketh thy circuit breaketh\'rs.  Thee may findeth a large numb\'r of this pokémon clinging to the breaketh\'r boxeth.',
+    image:
+      'https://i.imgur.com/7RrSAbx.png',
+  },
+  {
+    number: 82,
+    name: 'Magneton',
+    pokedexEntry:
+      'Magneton emits a pow\'rful magnetic f\'rce yond is fatal to mechanical devices.  As a result, large cities soundeth sirens to warneth citizens of large-scale outbreaks of this pokémon.',
+    image:
+      'https://i.imgur.com/NREscYo.png',
+  },
+  {
+    number: 83,
+    name: 'Farfetchd',
+    pokedexEntry:
+      'Farfetch\'d is at each moment seen with a stalk from a planteth of some s\'rt.  Apparently, th\'re art valorous stalks and lacking valor stalks.  This pokémon hast been known to square with oth\'rs ov\'r stalks.',
+    image:
+      'https://i.imgur.com/lfMSqI6.png',
+  },
+  {
+    number: 84,
+    name: 'Doduo',
+    pokedexEntry:
+      'Doduo\'s two heads nev\'r catch but a wink at the same timeth.  Its two heads taketh turns sleeping, so one headeth can at each moment keepeth gaze f\'r enemies while the oth\'r one sleeps.',
+    image:
+      'https://i.imgur.com/WxY5lwB.png',
+  },
+  {
+    number: 85,
+    name: 'Dodrio',
+    pokedexEntry:
+      'Gaze out if \'t be true dodrio\'s three heads art looking in three separateth directions.  T\'s a sure signeth yond t is on its guardeth.  Wend not near this pokémon if \'t be true t\'s being wary—it may decideth to pecketh thee.',
+    image:
+      'https://i.imgur.com/gFAKH9Y.png',
+  },
+  {
+    number: 86,
+    name: 'Seel',
+    pokedexEntry:
+      'Seel hunts f\'r prey in the frigid flote und\'rneath sheets of ice.  At which hour t needeth to breatheth, t punches a hole through the ice with the sharply protruding section of its headeth.',
+    image:
+      'https://i.imgur.com/aeC79p9.png',
+  },
+  {
+    number: 87,
+    name: 'Dewgong',
+    pokedexEntry:
+      'Dewgong loves to snooze on bitt\'rly bitter cold ice.  The sight of this pokémon sleeping on a glaci\'r wast mistakenly bethought to beest a m\'rmaid by a marin\'r longeth ago.',
+    image:
+      'https://i.imgur.com/v8GhxG2.png',
+  },
+  {
+    number: 88,
+    name: 'Grimer',
+    pokedexEntry:
+      'Grim\'r\'s sludgy and rubb\'ry corse can beest f\'rc\'d through any opening, howev\'r bawbling t may beest.  This pokémon ent\'rs seweth\'r pipes to drinketh filthy wastewat\'r.',
+    image:
+      'https://i.imgur.com/SIGg9HE.png',
+  },
+  {
+    number: 89,
+    name: 'Muk',
+    pokedexEntry:
+      'From muk\'s corse seeps a foul fluid yond gives off a nose-bendingly h\'rrible stench.  Just one dropeth of this pokémon\'s corse fluid can turneth a pool stagnant and rancid.',
+    image:
+      'https://i.imgur.com/7OxRXgc.png',
+  },
+  {
+    number: 90,
+    name: 'Shellder',
+    pokedexEntry:
+      'At night, this pokémon uses its broad tongue to burrow a hole in the seaflo\'r sand and then catch but a wink in t.  While t is sleeping, shelld\'r closes its shell, but leaves its tongue hanging out.',
+    image:
+      'https://i.imgur.com/ddY73nF.png',
+  },
+  {
+    number: 91,
+    name: 'Cloyster',
+    pokedexEntry:
+      'Cloyst\'r is capable of swimming in the flote.  T doest so by swallowing wat\'r, then jetting t out toward the rear.  This pokémon shoots spikes from its shell using the same system.',
+    image:
+      'https://i.imgur.com/cvlCuE3.png',
+  },
+  {
+    number: 92,
+    name: 'Gastly',
+    pokedexEntry:
+      'Gastly is largely compos\'d of gaseous matt\'r.  At which hour expos\'d to a stout windeth, the gaseous corse apace dwindles hence.  Groups of this pokémon clust\'r und\'r the eaves of houses to escapeth the ravages of windeth.',
+    image:
+      'https://i.imgur.com/zq8USJb.png',
+  },
+  {
+    number: 93,
+    name: 'Haunter',
+    pokedexEntry:
+      'Haunteth\'r is a dang\'rous pokémon.  If \'t be true one beckons thee while floating in darkness, thee might not but nev\'r approach t.  This pokémon shall tryeth to licketh thee with its tongue and stealeth thy life hence.',
+    image:
+      'https://i.imgur.com/JB3XG1o.png',
+  },
+  {
+    number: 94,
+    name: 'Gengar',
+    pokedexEntry:
+      'Oft, on a dark night, thy shadow thrown by a streetlight shall suddenly and startlingly ov\'rtake thee.  T is actually a gengar running past thee, pretending to beest thy shadow.',
+    image:
+      'https://i.imgur.com/N2gcYQF.png',
+  },
+  {
+    number: 95,
+    name: 'Onix',
+    pokedexEntry:
+      'Onix hast a magnet in its brain.  T acts as a compass so yond this pokémon doest not loseth direction while t is tunneling.  As t grows fusty\'r, its corse becomes increasingly round\'r and smooth\'r.',
+    image:
+      'https://i.imgur.com/FRatEB5.png',
+  },
+  {
+    number: 96,
+    name: 'Drowzee',
+    pokedexEntry:
+      'If \'t be true thy nose becomes itchy while thou art sleeping, t\'s a sure signeth yond one of these pokémon is standing above thy pillow and trying to consume thy dreameth through thy nostrils.',
+    image:
+      'https://i.imgur.com/MvYAzR6.png',
+  },
+  {
+    number: 97,
+    name: 'Hypno',
+    pokedexEntry:
+      'Hypno holds a pendulum in its handeth.  The arcing movement and glitt\'r of the pendulum lull the foe into a deep state of hypnosis.  While this pokémon searches f\'r prey, t polishes the pendulum.',
+    image:
+      'https://i.imgur.com/Yok4Yp2.png',
+  },
+  {
+    number: 98,
+    name: 'Krabby',
+    pokedexEntry:
+      'Krabby liveth on beaches, burrow\'d inside holes did dig into the sand.  On sandy beaches with dram in the way of food, these pokémon can beest seen squabbling with each oth\'r ov\'r t\'rrit\'ry.',
+    image:
+      'https://i.imgur.com/48GscPn.png',
+  },
+  {
+    number: 99,
+    name: 'Kingler',
+    pokedexEntry:
+      'Kingl\'r hast an en\'rmous, ov\'rsiz\'d claw.  T waves this huge claw in the air to communicateth with oth\'rs.  Howev\'r, because the claw is so heavy, the pokémon apace tires.',
+    image:
+      'https://i.imgur.com/OQ7lA93.png',
+  },
+  {
+    number: 100,
+    name: 'Voltorb',
+    pokedexEntry:
+      'Volt\'rb wast first did sight at a company yond manufactures poké balls.  The link between yond sighting and the fact yond this pokémon looks v\'ry similar to a poké ball remains a myst\'ry.',
+    image:
+      'https://i.imgur.com/bN0i30v.png',
+  },
+  {
+    number: 101,
+    name: 'Electrode',
+    pokedexEntry:
+      'Electrode engluts electricity in the atmosph\'re.  On days at which hour lightning strikes, thee can seeth this pokémon exploding all ov\'r the lodging from eating too much electricity.',
+    image:
+      'https://i.imgur.com/a3IWI2q.png',
+  },
+  {
+    number: 102,
+    name: 'Exeggcute',
+    pokedexEntry:
+      'This pokémon consists of six eggs yond f\'rm a closely did knit clust\'r.  The six eggs attracteth each oth\'r and spineth \'round.  At which hour cracks increasingly appeareth on the eggs, exeggcute is closeth to evolution.',
+    image:
+      'https://i.imgur.com/YlIPJow.png',
+  },
+  {
+    number: 103,
+    name: 'Exeggutor',
+    pokedexEntry:
+      'Exeggut\'r \'riginally cameth from the tropics.  Its heads steadily groweth larg\'r from exposure to stout sunlight.  T is hath said yond at which hour the heads falleth off, those gents group togeth\'r to f\'rm Exeggcute.',
+    image:
+      'https://i.imgur.com/yspXbww.png',
+  },
+  {
+    number: 104,
+    name: 'Cubone',
+    pokedexEntry:
+      'Cubone pines f\'r the moth\'r \'twill nev\'r seeth again.  Seeing a likeness of its moth\'r in the full moon, t cries.  The stains on the death\'s-head the pokémon wears art madeth by the drops of sorrow t sheds.',
+    image:
+      'https://i.imgur.com/8RoKzp8.png',
+  },
+  {
+    number: 105,
+    name: 'Marowak',
+    pokedexEntry:
+      'Marowak is the evolv\'d f\'rm of a cubone yond hast ov\'rcome its dry sorrow at the loss of its moth\'r and grown tough.  This pokémon\'s temp\'r\'d and harden\'d spirit is not easily broken.',
+    image:
+      'https://i.imgur.com/0eRuvUU.png',
+  },
+  {
+    number: 106,
+    name: 'Hitmonlee',
+    pokedexEntry:
+      'Hitmonlee\'s forks freely contracteth and stretcheth.  Using these springlike forks, t bowls ov\'r foes with devastating kicks.  Aft\'r hurlyburly, t rubs down its forks and loosens the muscles to ov\'rcome fatigue.',
+    image:
+      'https://i.imgur.com/Gpn4TE4.png',
+  },
+  {
+    number: 107,
+    name: 'Hitmonchan',
+    pokedexEntry:
+      'Hitmonchan is hath said to possesseth the spirit of a boxeth\'r who is\'t hadst been w\'rking toward a w\'rld championship.  This pokémon hast an insuppressive spirit and shall nev\'r giveth up in the visage of adv\'rsity.',
+    image:
+      'https://i.imgur.com/kmvlexV.png',
+  },
+  {
+    number: 108,
+    name: 'Lickitung',
+    pokedexEntry:
+      'Whenev\'r lickitung cometh across something new, \'twill unfailingly giveth t a licketh.  T doest so because t mem\'rizes things by texture and by gust.  T is somewhat putteth off by sour things.',
+    image:
+      'https://i.imgur.com/p8dYw7o.png',
+  },
+  {
+    number: 109,
+    name: 'Koffing',
+    pokedexEntry:
+      'If \'t be true koffing becomes agitated, t raises the toxicity of its int\'rnal gases and jets those folk out from all ov\'r its corse.  This pokémon may eke ov\'rinflate its round corse, then explodeth.',
+    image:
+      'https://i.imgur.com/dUy2AWG.png',
+  },
+  {
+    number: 110,
+    name: 'Weezing',
+    pokedexEntry:
+      'Weezing loves the gases given off by did rot kitchen garbage.  This pokémon shall findeth a filthy, unkempt house and maketh t its home.  At night, at which hour the people in the house art asleep, \'twill wend through the trash.',
+    image:
+      'https://i.imgur.com/uzHT3aH.png',
+  },
+  {
+    number: 111,
+    name: 'Rhyhorn',
+    pokedexEntry:
+      'Rhyh\'rn runs in a straight line, smashing ev\'rything in its path.  T is not both\'r\'d coequal if \'t be true t rushes headlong into a block of steel.  This pokémon may feeleth some teen from the collision the next day, howev\'r.',
+    image:
+      'https://i.imgur.com/IzGky8f.png',
+  },
+  {
+    number: 112,
+    name: 'Rhydon',
+    pokedexEntry:
+      'Rhydon\'s h\'rn can crusheth coequal uncut diamonds.  One sweeping bloweth of its tail can topple a building.  This pokémon\'s encave is extremely tough.  Coequal directeth cannon hits leaveth not a scratcheth.',
+    image:
+      'https://i.imgur.com/tuR4enM.png',
+  },
+  {
+    number: 113,
+    name: 'Chansey',
+    pokedexEntry:
+      'Chansey lays nutritionally excellent eggs on an ev\'ryday basis.  The eggs art so delicious, those gents art easily and eag\'rly devour\'d by coequal those people who is\'t has\'t hath lost their appetite.',
+    image:
+      'https://i.imgur.com/SZZiLOd.png',
+  },
+  {
+    number: 114,
+    name: 'Tangela',
+    pokedexEntry:
+      'Tangela\'s vines snap off easily if \'t be true those gents art did grab.  This happeneth without teen, allowing t to maketh a quick getaway.  The hath lost vines art did replace by newly grown vines the v\'ry next day.',
+    image:
+      'https://i.imgur.com/BVk8Jff.png',
+  },
+  {
+    number: 115,
+    name: 'Kangaskhan',
+    pokedexEntry:
+      'If \'t be true thee cometh across a young kangaskhan playing by itself, thee wilt nev\'r disturb t \'r attempteth to catcheth t.  The baby pokémon\'s parent is sure to beest in the area, and \'twill becometh violently enrag\'d at thee.',
+    image:
+      'https://i.imgur.com/cJFeXHk.png',
+  },
+  {
+    number: 116,
+    name: 'Horsea',
+    pokedexEntry:
+      'H\'rsea engluts bawbling insects and moss off of rocks.  If \'t be true the ocean current turns festinate, this pokémon anch\'rs itself by wrapping its tail \'round rocks \'r c\'ral to preventeth being wash\'d hence.',
+    image:
+      'https://i.imgur.com/QYOg5Ra.png',
+  },
+  {
+    number: 117,
+    name: 'Seadra',
+    pokedexEntry:
+      'Seadra sleeps aft\'r wriggling itself between the branches of c\'ral.  Those trying to foison c\'ral art occasionally did sting by this pokémon\'s poison barbs if \'t be true those gents faileth to noticeth t.',
+    image:
+      'https://i.imgur.com/fnfwkV8.png',
+  },
+  {
+    number: 118,
+    name: 'Goldeen',
+    pokedexEntry:
+      'Goldeen is a v\'ry quite quaint pokémon with fins yond billow elegantly in wat\'r.  Howev\'r, alloweth not thy guardeth down \'round this pokémon—it couldst ram thee pow\'rfully with its h\'rn.',
+    image:
+      'https://i.imgur.com/OnIwD3Q.png',
+  },
+  {
+    number: 119,
+    name: 'Seaking',
+    pokedexEntry:
+      'In the autumn, seaking males can beest seen p\'rf\'rming courtship dances in riv\'rbeds to woo females.  During this season, this pokémon\'s corse col\'ration is at its most quite quaint.',
+    image:
+      'https://i.imgur.com/68wklVH.png',
+  },
+  {
+    number: 120,
+    name: 'Staryu',
+    pokedexEntry:
+      'Staryu\'s cent\'r section hast an \'rgan hath called the c\'re yond shines bright r\'d.  If \'t be true thee wend to a beach toward the endeth of summ\'r, the glowing c\'res of these pokémon behold liketh the stars in the sky.',
+    image:
+      'https://i.imgur.com/sMV7IDf.png',
+  },
+  {
+    number: 121,
+    name: 'Starmie',
+    pokedexEntry:
+      'Starmie\'s cent\'r section—the c\'re—glows brightly in seven col\'rs.  Because of its luminous nature, this pokémon hast been given the nickname “the gem of the flote.',
+    image:
+      'https://i.imgur.com/ZdZVUNW.png',
+  },
+  {
+    number: 122,
+    name: 'Mr-Mime',
+    pokedexEntry:
+      'Mr. Mime is a mast\'r of pantomime.  Its gestures and motions convince gaze\'rs yond something unseeable actually exists.  Once the gaze\'rs art did convince, the unseeable thing exists as if \'t be true t w\'re real.',
+    image:
+      'https://i.imgur.com/y0twZCn.png',
+  },
+  {
+    number: 123,
+    name: 'Scyther',
+    pokedexEntry:
+      'Scyth\'r is blindingly festinate.  Its blazing speedeth enhances the effectiveness of the twin scythes on its f\'rearms.  This pokémon\'s scythes art so effective, those gents can slice through thick logs in one naughty stroketh.',
+    image:
+      'https://i.imgur.com/wT3I9hp.png',
+  },
+  {
+    number: 124,
+    name: 'Jynx',
+    pokedexEntry:
+      'Jynx walks rhythmically, swaying and shaking its hips as if \'t be true t w\'re dancing.  Its motions art so bouncingly alluring, people seeing t art did compel to shaketh their hips without giving any bethought to what those gents art doing.',
+    image:
+      'https://i.imgur.com/D1SmE0i.png',
+  },
+  {
+    number: 125,
+    name: 'Electabuzz',
+    pokedexEntry:
+      'At which hour a st\'rm arrives, gangs of this pokémon competeth with each oth\'r to scale heights yond art likely to beest stricken by lightning bolts.  Some towns useth electabuzz in lodging of lightning rods.',
+    image:
+      'https://i.imgur.com/GIFg3S0.png',
+  },
+  {
+    number: 126,
+    name: 'Magmar',
+    pokedexEntry:
+      'In hurlyburly, magmar blows out intensely hot flames from all ov\'r its corse to intimidate its opponent.  This pokémon\'s fi\'ry bursts maketh heateth waves yond ignite grass and trees in its surroundings.',
+    image:
+      'https://i.imgur.com/dUwT3hW.png',
+  },
+  {
+    number: 127,
+    name: 'Pinsir',
+    pokedexEntry:
+      'Pinsir is astoundingly stout.  T can gripeth a foe weighing twice its weight in its h\'rns and easily lift t.  This pokémon\'s movements turneth sluggish in bitter cold places.',
+    image:
+      'https://i.imgur.com/J1swd2h.png',
+  },
+  {
+    number: 128,
+    name: 'Tauros',
+    pokedexEntry:
+      'This pokémon is not did satisfy unless t is rampaging at all times.  If \'t be true th\'re is nay opponent f\'r tauros to hurlyburly, \'twill chargeth at thick trees and knocketh those folk down to halcyon itself.',
+    image:
+      'https://i.imgur.com/mmD3KJg.png',
+  },
+  {
+    number: 129,
+    name: 'Magikarp',
+    pokedexEntry:
+      'Magikarp is a pathetic colours f\'r a pokémon yond is only capable of flopping and splashing.  This behavi\'r prompt\'d scientists to und\'rtake researcheth into t.',
+    image:
+      'https://i.imgur.com/bVwTnOO.png',
+  },
+  {
+    number: 130,
+    name: 'Gyarados',
+    pokedexEntry:
+      'At which hour magikarp evolves into gyarados, its brain cells und\'rgo a structural transf\'rmation.  T is hath said yond this transf\'rmation is to censure f\'r this pokémon\'s wildly termagant nature.',
+    image:
+      'https://i.imgur.com/MZIzNfT.png',
+  },
+  {
+    number: 131,
+    name: 'Lapras',
+    pokedexEntry:
+      'People has\'t driven lapras almost to the pointeth of extinction.  In the evenings, this pokémon is hath said to singeth plaintively as t seeks what few oth\'rs of its kind still remaineth.',
+    image:
+      'https://i.imgur.com/u41ijdY.png',
+  },
+  {
+    number: 132,
+    name: 'Ditto',
+    pokedexEntry:
+      'Ditto rearranges its cell structureth to transf\'rm itself into oth\'r shapes.  Howev\'r, if \'t be true t tries to transf\'rm itself into something by relying on its mem\'ry, this pokémon manages to receiveth details wrong.',
+    image:
+      'https://i.imgur.com/uUAHcqz.png',
+  },
+  {
+    number: 133,
+    name: 'Eevee',
+    pokedexEntry:
+      'Eevee hast an unstable genetic makeup yond suddenly mutates due to the environment in which t liveth.  Radiation from various stones causes this pokémon to evolve.',
+    image:
+      'https://i.imgur.com/9OBVplB.png',
+  },
+  {
+    number: 134,
+    name: 'Vaporeon',
+    pokedexEntry:
+      'Vap\'reon und\'rwent a spontaneous mutation and hath grown fins and gills yond alloweth t to liveth und\'rwat\'r.  This pokémon hast the ability to freely controleth wat\'r.',
+    image:
+      'https://i.imgur.com/A8XTOC1.png',
+  },
+  {
+    number: 135,
+    name: 'Jolteon',
+    pokedexEntry:
+      'Jolteon\'s cells gen\'rate a base leveleth of electricity.  This pow\'r is amplifi\'d by the static electricity of its fur, enabling the pokémon to dropeth thund\'rbolts.  The bristling fur is madeth of electrically did charge needles.',
+    image:
+      'https://i.imgur.com/SMSC7Cb.png',
+  },
+  {
+    number: 136,
+    name: 'Flareon',
+    pokedexEntry:
+      'Flareon\'s fluffy fur hast a functional purpose—it releases heateth into the air so yond its corse doest not receiveth excessively hot.  This pokémon\'s corse temp\'rature can riseth to a maximum of 1,650 degrees fahrenheit.',
+    image:
+      'https://i.imgur.com/myeiZ4P.png',
+  },
+  {
+    number: 137,
+    name: 'Porygon',
+    pokedexEntry:
+      'P\'rygon is capable of rev\'rting itself entirely backeth to programeth data and ent\'ring cyb\'rspace.  This pokémon is copyeth did protect so t cannot beest duplicat\'d by copying.',
+    image:
+      'https://i.imgur.com/OXfZuSx.png',
+  },
+  {
+    number: 138,
+    name: 'Omanyte',
+    pokedexEntry:
+      'Omanyte is one of the ancient and long-since-extinct pokémon yond has\'t been regen\'rat\'d from fossils by people.  If \'t be true did attack by an foe, t withdraws itself inside its hard shell.',
+    image:
+      'https://i.imgur.com/387IsYi.png',
+  },
+  {
+    number: 139,
+    name: 'Omastar',
+    pokedexEntry:
+      'Omastar uses its tentacles to capture its prey.  T is hath believed to has\'t becometh extinct because its shell hath grown too large and heavy, causing its movements to becometh too sloweth and pond\'rous.',
+    image:
+      'https://i.imgur.com/TbekRIk.png',
+  },
+  {
+    number: 140,
+    name: 'Kabuto',
+    pokedexEntry:
+      'Kabuto is a pokémon yond hast been regen\'rat\'d from a fossil.  Howev\'r, in extremely rare cases, living examples has\'t been discov\'r\'d.  The pokémon hast not hath changed at all f\'r 300 million years.',
+    image:
+      'https://i.imgur.com/Jq4DEAE.png',
+  },
+  {
+    number: 141,
+    name: 'Kabutops',
+    pokedexEntry:
+      'Kabutops did swim und\'rwat\'r to hunteth f\'r its prey in ancient times.  The pokémon wast apparently evolving from being a wat\'r dwelleth\'r to living on landeth as evident from the beginnings of changeth in its gills and forks.',
+    image:
+      'https://i.imgur.com/NgDfsMg.png',
+  },
+  {
+    number: 142,
+    name: 'Aerodactyl',
+    pokedexEntry:
+      'A\'rodactyl is a pokémon from the age of dinosaurs.  T wast regen\'rat\'d from genetic mat\'rial extract\'d from amb\'r.  T is did imagine to has\'t been the king of the skies in ancient times. ',
+    image:
+      'https://i.imgur.com/5ceScXL.png',
+  },
+  {
+    number: 143,
+    name: 'Snorlax',
+    pokedexEntry:
+      'Sn\'rlax\'s typical day consists of nothing m\'re than eating and sleeping.  T is such a docile pokémon yond th\'re art children who is\'t useth its expansive belly as a lodging to playeth.',
+    image:
+      'https://i.imgur.com/bbqdclS.png',
+  },
+  {
+    number: 144,
+    name: 'Articuno',
+    pokedexEntry:
+      'Articuno is a legendary pokémon yond can controleth ice.  The flapping of its wings chills the air.  As a result, t is hath said yond at which hour this pokémon flies, snoweth shall falleth.',
+    image:
+      'https://i.imgur.com/rcoMeD6.png',
+  },
+  {
+    number: 145,
+    name: 'Zapdos',
+    pokedexEntry:
+      'Zapdos is a legendary pokémon yond hast the ability to controleth electricity.  T usually liveth in thund\'rclouds.  The pokémon gains pow\'r if \'t be true t is stricken by lightning bolts.',
+    image:
+      'https://i.imgur.com/bsQPeYo.png',
+  },
+  {
+    number: 146,
+    name: 'Moltres',
+    pokedexEntry:
+      'Moltres is a legendary pokémon yond hast the ability to controleth fireth.  If \'t be true this pokémon is did injure, t is hath said to dip its corse in the molten magma of a volcano to burneth and healeth itself.',
+    image:
+      'https://i.imgur.com/mvw5dqE.png',
+  },
+  {
+    number: 147,
+    name: 'Dratini',
+    pokedexEntry:
+      'Dratini continually molts and sloughs off its fusty skin.  T doest so because the life en\'rgy within its corse steadily builds to reacheth uncontrollable levels.',
+    image:
+      'https://i.imgur.com/QGV6nj7.png',
+  },
+  {
+    number: 148,
+    name: 'Dragonair',
+    pokedexEntry:
+      'Dragonair st\'res an en\'rmous amount of en\'rgy inside its corse.  T is hath said to alt\'r weath\'r conditions in its vicinity by discharging en\'rgy from the crystals on its neck and tail.',
+    image:
+      'https://i.imgur.com/PZubWYw.png',
+  },
+  {
+    number: 149,
+    name: 'Dragonite',
+    pokedexEntry:
+      'Dragonite is capable of circling the globe in just 16 hours.  T is a kindheart\'d pokémon yond leads hath lost and hath found\'ring ships in a st\'rm to the safety of landeth.',
+    image:
+      'https://i.imgur.com/Dm8bLAW.png',
+  },
+  {
+    number: 150,
+    name: 'Mewtwo',
+    pokedexEntry:
+      'Mewtwo is a pokémon yond wast did create by genetic manipulation.  Howev\'r, coequal though the scientific pow\'r of humans did create this pokémon\'s corse, those gents did fail to endow mewtwo with a compassionate heart.',
+    image:
+      'https://i.imgur.com/B7MUtyS.png',
+  },
+  {
+    number: 151,
+    name: 'Mew',
+    pokedexEntry:
+      'Mew is hath said to possesseth the genetic composition of all pokémon.  T is capable of making itself eyeless at shall, so t entirely avoids noticeth coequal if \'t be true t approaches people.',
+    image:
+      'https://i.imgur.com/8VM1V9U.png',
   }
-  // {
-  //   number: 50,
-  //   name: 'Diglett',
-  //   types: ['Ground'],
-  //   pokedexEntry:
-  //     'Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png',
-  // },
-  // {
-  //   number: 51,
-  //   name: 'Dugtrio',
-  //   types: ['Ground'],
-  //   pokedexEntry:
-  //     'A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png',
-  // },
-  // {
-  //   number: 52,
-  //   name: 'Meowth',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png',
-  // },
-  // {
-  //   number: 53,
-  //   name: 'Persian',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png',
-  // },
-  // {
-  //   number: 54,
-  //   name: 'Psyduck',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'While lulling its enemies with its vacant look, this wily POKéMON will use psychokinetic powers.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png',
-  // },
-  // {
-  //   number: 55,
-  //   name: 'Golduck',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Often seen swim\u00ad ming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png',
-  // },
-  // {
-  //   number: 56,
-  //   name: 'Mankey',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'Extremely quick to anger. It could be docile one moment then thrashing away the next instant.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png',
-  // },
-  // {
-  //   number: 57,
-  //   name: 'Primeape',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png',
-  // },
-  // {
-  //   number: 58,
-  //   name: 'Growlithe',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'Very protective of its territory. It will bark and bite to repel intruders from its space.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png',
-  // },
-  // {
-  //   number: 59,
-  //   name: 'Arcanine',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'A POKéMON that has been admired since the past for its beauty. It runs agilely as if on wings.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png',
-  // },
-  // {
-  //   number: 60,
-  //   name: 'Poliwag',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png',
-  // },
-  // {
-  //   number: 61,
-  //   name: 'Poliwhirl',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Capable of living in or out of water. When out of water, it sweats to keep its body slimy.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png',
-  // },
-  // {
-  //   number: 62,
-  //   name: 'Poliwrath',
-  //   types: ['Water', 'Fighting'],
-  //   pokedexEntry:
-  //     'An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png',
-  // },
-  // {
-  //   number: 63,
-  //   name: 'Abra',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'Using its ability to read minds, it will identify impending danger and TELEPORT to safety.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png',
-  // },
-  // {
-  //   number: 64,
-  //   name: 'Kadabra',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'It emits special alpha waves from its body that induce headaches just by being close by.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png',
-  // },
-  // {
-  //   number: 65,
-  //   name: 'Alakazam',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'Its brain can out\u00ad perform a super\u00ad computer. Its intelligence quotient is said to be 5,000.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png',
-  // },
-  // {
-  //   number: 66,
-  //   name: 'Machop',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'Loves to build its muscles. It trains in all styles of martial arts to become even stronger.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png',
-  // },
-  // {
-  //   number: 67,
-  //   name: 'Machoke',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png',
-  // },
-  // {
-  //   number: 68,
-  //   name: 'Machamp',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png',
-  // },
-  // {
-  //   number: 69,
-  //   name: 'Bellsprout',
-  //   types: ['Grass', 'Poison'],
-  //   pokedexEntry:
-  //     'Even though its body is extremely skinny, it is blindingly fast when catching its prey.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png',
-  // },
-  // {
-  //   number: 70,
-  //   name: 'Weepinbell',
-  //   types: ['Grass', 'Poison'],
-  //   pokedexEntry:
-  //     'It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png',
-  // },
-  // {
-  //   number: 71,
-  //   name: 'Victreebel',
-  //   types: ['Grass', 'Poison'],
-  //   pokedexEntry:
-  //     'Said to live in huge colonies deep in jungles, although no one has ever returned from there.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png',
-  // },
-  // {
-  //   number: 72,
-  //   name: 'Tentacool',
-  //   types: ['Water', 'Poison'],
-  //   pokedexEntry:
-  //     'Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png',
-  // },
-  // {
-  //   number: 73,
-  //   name: 'Tentacruel',
-  //   types: ['Water', 'Poison'],
-  //   pokedexEntry:
-  //     'The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png',
-  // },
-  // {
-  //   number: 74,
-  //   name: 'Geodude',
-  //   types: ['Rock', 'Ground'],
-  //   pokedexEntry:
-  //     'Found in fields and mountains. Mistaking them for boulders, people often step or trip on them.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png',
-  // },
-  // {
-  //   number: 75,
-  //   name: 'Graveler',
-  //   types: ['Rock', 'Ground'],
-  //   pokedexEntry:
-  //     'Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png',
-  // },
-  // {
-  //   number: 76,
-  //   name: 'Golem',
-  //   types: ['Rock', 'Ground'],
-  //   pokedexEntry:
-  //     'Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png',
-  // },
-  // {
-  //   number: 77,
-  //   name: 'Ponyta',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png',
-  // },
-  // {
-  //   number: 78,
-  //   name: 'Rapidash',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'Very competitive, this POKéMON will chase anything that moves fast in the hopes of racing it.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png',
-  // },
-  // {
-  //   number: 79,
-  //   name: 'Slowpoke',
-  //   types: ['Water', 'Psychic'],
-  //   pokedexEntry:
-  //     'Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png',
-  // },
-  // {
-  //   number: 80,
-  //   name: 'Slowbro',
-  //   types: ['Water', 'Psychic'],
-  //   pokedexEntry:
-  //     'The SHELLDER that is latched onto SLOWPOKE\'s tail is said to feed on the host\'s left over scraps.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png',
-  // },
-  // {
-  //   number: 81,
-  //   name: 'Magnemite',
-  //   types: ['Electric', 'Steel'],
-  //   pokedexEntry:
-  //     'Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves.',
-  //   habitat: 'Rough-terrain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png',
-  // },
-  // {
-  //   number: 82,
-  //   name: 'Magneton',
-  //   types: ['Electric', 'Steel'],
-  //   pokedexEntry:
-  //     'Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up.',
-  //   habitat: 'Rough-terrain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png',
-  // },
-  // {
-  //   number: 83,
-  //   name: 'Farfetchd',
-  //   types: ['Normal', 'Flying'],
-  //   pokedexEntry:
-  //     'The sprig of green onions it holds is its weapon. It is used much like a metal sword.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png',
-  // },
-  // {
-  //   number: 84,
-  //   name: 'Doduo',
-  //   types: ['Normal', 'Flying'],
-  //   pokedexEntry:
-  //     'A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png',
-  // },
-  // {
-  //   number: 85,
-  //   name: 'Dodrio',
-  //   types: ['Normal', 'Flying'],
-  //   pokedexEntry:
-  //     'Uses its three brains to execute complex plans. While two heads sleep, one head stays awake.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png',
-  // },
-  // {
-  //   number: 86,
-  //   name: 'Seel',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'The protruding horn on its head is very hard. It is used for bashing through thick ice.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png',
-  // },
-  // {
-  //   number: 87,
-  //   name: 'Dewgong',
-  //   types: ['Water', 'Ice'],
-  //   pokedexEntry:
-  //     'Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png',
-  // },
-  // {
-  //   number: 88,
-  //   name: 'Grimer',
-  //   types: ['Poison'],
-  //   pokedexEntry:
-  //     'Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png',
-  // },
-  // {
-  //   number: 89,
-  //   name: 'Muk',
-  //   types: ['Poison'],
-  //   pokedexEntry:
-  //     'Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png',
-  // },
-  // {
-  //   number: 90,
-  //   name: 'Shellder',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Its hard shell repels any kind of attack. It is vulnerable only when its shell is open.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png',
-  // },
-  // {
-  //   number: 91,
-  //   name: 'Cloyster',
-  //   types: ['Water', 'Ice'],
-  //   pokedexEntry:
-  //     'CLOYSTER that live in seas with harsh tidal currents grow large, sharp spikes on their shells.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png',
-  // },
-  // {
-  //   number: 92,
-  //   name: 'Gastly',
-  //   types: ['Ghost', 'Poison'],
-  //   pokedexEntry:
-  //     'Almost invisible, this gaseous POKéMON cloaks the target and puts it to sleep without notice.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png',
-  // },
-  // {
-  //   number: 93,
-  //   name: 'Haunter',
-  //   types: ['Ghost', 'Poison'],
-  //   pokedexEntry:
-  //     'Because of its ability to slip through block walls, it is said to be from an\u00ad other dimension.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png',
-  // },
-  // {
-  //   number: 94,
-  //   name: 'Gengar',
-  //   types: ['Ghost', 'Poison'],
-  //   pokedexEntry:
-  //     'Under a full moon, this POKéMON likes to mimic the shadows of people and laugh at their fright.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png',
-  // },
-  // {
-  //   number: 95,
-  //   name: 'Onix',
-  //   types: ['Rock', 'Ground'],
-  //   pokedexEntry:
-  //     'As it grows, the stone portions of its body harden to become similar to a diamond, but colored black.',
-  //   habitat: 'Cave',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png',
-  // },
-  // {
-  //   number: 96,
-  //   name: 'Drowzee',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png',
-  // },
-  // {
-  //   number: 97,
-  //   name: 'Hypno',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png',
-  // },
-  // {
-  //   number: 98,
-  //   name: 'Krabby',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Its pincers are not only powerful weapons, they are used for balance when walking sideways.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png',
-  // },
-  // {
-  //   number: 99,
-  //   name: 'Kingler',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png',
-  // },
-  // {
-  //   number: 100,
-  //   name: 'Voltorb',
-  //   types: ['Electric'],
-  //   pokedexEntry:
-  //     'Usually found in power plants. Easily mistaken for a POKé BALL, they have zapped many people.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png',
-  // },
-  // {
-  //   number: 101,
-  //   name: 'Electrode',
-  //   types: ['Electric'],
-  //   pokedexEntry:
-  //     'It stores electric energy under very high pressure. It often explodes with little or no provocation.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png',
-  // },
-  // {
-  //   number: 102,
-  //   name: 'Exeggcute',
-  //   types: ['Grass', 'Psychic'],
-  //   pokedexEntry:
-  //     'Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png',
-  // },
-  // {
-  //   number: 103,
-  //   name: 'Exeggutor',
-  //   types: ['Grass', 'Psychic'],
-  //   pokedexEntry:
-  //     'Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png',
-  // },
-  // {
-  //   number: 104,
-  //   name: 'Cubone',
-  //   types: ['Ground'],
-  //   pokedexEntry:
-  //     'Because it never removes its skull helmet, no one has ever seen this POKéMON\'s real face.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png',
-  // },
-  // {
-  //   number: 105,
-  //   name: 'Marowak',
-  //   types: ['Ground'],
-  //   pokedexEntry:
-  //     'The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png',
-  // },
-  // {
-  //   number: 106,
-  //   name: 'Hitmonlee',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png',
-  // },
-  // {
-  //   number: 107,
-  //   name: 'Hitmonchan',
-  //   types: ['Fighting'],
-  //   pokedexEntry:
-  //     'While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png',
-  // },
-  // {
-  //   number: 108,
-  //   name: 'Lickitung',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'Its tongue can be extended like a chameleon\'s. It leaves a tingling sensation when it licks enemies.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png',
-  // },
-  // {
-  //   number: 109,
-  //   name: 'Koffing',
-  //   types: ['Poison'],
-  //   pokedexEntry:
-  //     'Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png',
-  // },
-  // {
-  //   number: 110,
-  //   name: 'Weezing',
-  //   types: ['Poison'],
-  //   pokedexEntry:
-  //     'Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png',
-  // },
-  // {
-  //   number: 111,
-  //   name: 'Rhyhorn',
-  //   types: ['Ground', 'Rock'],
-  //   pokedexEntry:
-  //     'Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying.',
-  //   habitat: 'Rough-terrain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png',
-  // },
-  // {
-  //   number: 112,
-  //   name: 'Rhydon',
-  //   types: ['Ground', 'Rock'],
-  //   pokedexEntry:
-  //     'Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees.',
-  //   habitat: 'Rough-terrain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png',
-  // },
-  // {
-  //   number: 113,
-  //   name: 'Chansey',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'A rare and elusive POKéMON that is said to bring happiness to those who manage to get it.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png',
-  // },
-  // {
-  //   number: 114,
-  //   name: 'Tangela',
-  //   types: ['Grass'],
-  //   pokedexEntry:
-  //     'The whole body is swathed with wide vines that are similar to sea\u00ad weed. Its vines shake as it walks.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png',
-  // },
-  // {
-  //   number: 115,
-  //   name: 'Kangaskhan',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'The infant rarely ventures out of its mother\'s protective pouch until it is 3 years old.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png',
-  // },
-  // {
-  //   number: 116,
-  //   name: 'Horsea',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Known to shoot down flying bugs with precision blasts of ink from the surface of the water.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png',
-  // },
-  // {
-  //   number: 117,
-  //   name: 'Seadra',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Capable of swim\u00ad ming backwards by rapidly flapping its wing-like pectoral fins and stout tail.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png',
-  // },
-  // {
-  //   number: 118,
-  //   name: 'Goldeen',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png',
-  // },
-  // {
-  //   number: 119,
-  //   name: 'Seaking',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'In the autumn spawning season, they can be seen swimming power\u00ad fully up rivers and creeks.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png',
-  // },
-  // {
-  //   number: 120,
-  //   name: 'Staryu',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'An enigmatic POKéMON that can effortlessly regenerate any appendage it loses in battle.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png',
-  // },
-  // {
-  //   number: 121,
-  //   name: 'Starmie',
-  //   types: ['Water', 'Psychic'],
-  //   pokedexEntry:
-  //     'Its central core glows with the seven colors of the rainbow. Some people value the core as a gem.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png',
-  // },
-  // {
-  //   number: 122,
-  //   name: 'Mr-mime',
-  //   types: ['Psychic', 'Fairy'],
-  //   pokedexEntry:
-  //     'If interrupted while it is miming, it will slap around the offender with its broad hands.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png',
-  // },
-  // {
-  //   number: 123,
-  //   name: 'Scyther',
-  //   types: ['Bug', 'Flying'],
-  //   pokedexEntry:
-  //     'With ninja-like agility and speed, it can create the illusion that there is more than one.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png',
-  // },
-  // {
-  //   number: 124,
-  //   name: 'Jynx',
-  //   types: ['Ice', 'Psychic'],
-  //   pokedexEntry:
-  //     'Its cries sound like human speech. However, it is impossible to tell what it is trying to say.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png',
-  // },
-  // {
-  //   number: 125,
-  //   name: 'Electabuzz',
-  //   types: ['Electric'],
-  //   pokedexEntry:
-  //     'Normally found near power plants, they can wander away and cause major blackouts in cities.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png',
-  // },
-  // {
-  //   number: 126,
-  //   name: 'Magmar',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'Its body always burns with an orange glow that enables it to hide perfectly among flames.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png',
-  // },
-  // {
-  //   number: 127,
-  //   name: 'Pinsir',
-  //   types: ['Bug'],
-  //   pokedexEntry:
-  //     'If it fails to crush the victim in its pincers, it will swing it around and toss it hard.',
-  //   habitat: 'Forest',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png',
-  // },
-  // {
-  //   number: 128,
-  //   name: 'Tauros',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'When it targets an enemy, it charges furiously while whipping its body with its long tails.',
-  //   habitat: 'Grassland',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png',
-  // },
-  // {
-  //   number: 129,
-  //   name: 'Magikarp',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'In the distant past, it was somewhat stronger than the horribly weak descendants that exist today.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png',
-  // },
-  // {
-  //   number: 130,
-  //   name: 'Gyarados',
-  //   types: ['Water', 'Flying'],
-  //   pokedexEntry:
-  //     'Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png',
-  // },
-  // {
-  //   number: 131,
-  //   name: 'Lapras',
-  //   types: ['Water', 'Ice'],
-  //   pokedexEntry:
-  //     'A POKéMON that has been over\u00ad hunted almost to extinction. It can ferry people across the water.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png',
-  // },
-  // {
-  //   number: 132,
-  //   name: 'Ditto',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'It can freely recombine its own cellular structure to transform into other life-forms.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png',
-  // },
-  // {
-  //   number: 133,
-  //   name: 'Eevee',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png',
-  // },
-  // {
-  //   number: 134,
-  //   name: 'Vaporeon',
-  //   types: ['Water'],
-  //   pokedexEntry:
-  //     'Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid\'s.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png',
-  // },
-  // {
-  //   number: 135,
-  //   name: 'Jolteon',
-  //   types: ['Electric'],
-  //   pokedexEntry:
-  //     'It accumulates negative ions in the atmosphere to blast out 10000- volt lightning bolts.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png',
-  // },
-  // {
-  //   number: 136,
-  //   name: 'Flareon',
-  //   types: ['Fire'],
-  //   pokedexEntry:
-  //     'When storing thermal energy in its body, its temperature could soar to over 1600 degrees.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png',
-  // },
-  // {
-  //   number: 137,
-  //   name: 'Porygon',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'A POKéMON that consists entirely of programming code. Capable of moving freely in cyberspace.',
-  //   habitat: 'Urban',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png',
-  // },
-  // {
-  //   number: 138,
-  //   name: 'Omanyte',
-  //   types: ['Rock', 'Water'],
-  //   pokedexEntry:
-  //     'Although long extinct, in rare cases, it can be genetically resurrected from fossils.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png',
-  // },
-  // {
-  //   number: 139,
-  //   name: 'Omastar',
-  //   types: ['Rock', 'Water'],
-  //   pokedexEntry:
-  //     'Apparently, it cracked SHELLDER\'s shell with its sharp fangs and sucked out the insides.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png',
-  // },
-  // {
-  //   number: 140,
-  //   name: 'Kabuto',
-  //   types: ['Rock', 'Water'],
-  //   pokedexEntry:
-  //     'A POKéMON that was resurrected from a fossil found in what was once the ocean floor eons ago.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png',
-  // },
-  // {
-  //   number: 141,
-  //   name: 'Kabutops',
-  //   types: ['Rock', 'Water'],
-  //   pokedexEntry:
-  //     'Its sleek shape is perfect for swim\u00ad ming. It slashes prey with its claws and drains the body fluids.',
-  //   habitat: 'Sea',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png',
-  // },
-  // {
-  //   number: 142,
-  //   name: 'Aerodactyl',
-  //   types: ['Rock', 'Flying'],
-  //   pokedexEntry:
-  //     'A ferocious, pre\u00ad historic POKéMON that goes for the enemy\'s throat with its serrated saw-like fangs.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png',
-  // },
-  // {
-  //   number: 143,
-  //   name: 'Snorlax',
-  //   types: ['Normal'],
-  //   pokedexEntry:
-  //     'Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful.',
-  //   habitat: 'Mountain',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png',
-  // },
-  // {
-  //   number: 144,
-  //   name: 'Articuno',
-  //   types: ['Ice', 'Flying'],
-  //   pokedexEntry:
-  //     'A legendary bird POKéMON that is said to appear to doomed people who are lost in icy mountains.',
-  //   habitat: 'Rare',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png',
-  // },
-  // {
-  //   number: 145,
-  //   name: 'Zapdos',
-  //   types: ['Electric', 'Flying'],
-  //   pokedexEntry:
-  //     'A legendary bird POKéMON that is said to appear from clouds while dropping enormous lightning bolts.',
-  //   habitat: 'Rare',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png',
-  // },
-  // {
-  //   number: 146,
-  //   name: 'Moltres',
-  //   types: ['Fire', 'Flying'],
-  //   pokedexEntry:
-  //     'It is said to be the legendary bird Pokémon of fire. Every flap of its wings creates a dazzling flare of flames.',
-  //   habitat: 'Rare',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png',
-  // },
-  // {
-  //   number: 147,
-  //   name: 'Dratini',
-  //   types: ['Dragon'],
-  //   pokedexEntry:
-  //     'Long considered a mythical POKéMON until recently when a small colony was found living underwater.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png',
-  // },
-  // {
-  //   number: 148,
-  //   name: 'Dragonair',
-  //   types: ['Dragon'],
-  //   pokedexEntry:
-  //     'A mystical POKéMON that exudes a gentle aura. Has the ability to change climate conditions.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png',
-  // },
-  // {
-  //   number: 149,
-  //   name: 'Dragonite',
-  //   types: ['Dragon', 'Flying'],
-  //   pokedexEntry:
-  //     'An extremely rarely seen marine POKéMON. Its intelligence is said to match that of humans.',
-  //   habitat: 'Waters-edge',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png',
-  // },
-  // {
-  //   number: 150,
-  //   name: 'Mewtwo',
-  //   types: ['Psychic'],
-  //   pokedexEntry:
-  //     'It was created by a scientist after years of horrific gene splicing and DNA engineering experiments.',
-  //   habitat: 'Rare',
-  //   sprite:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png',
-  // },
-  // {
-  //   number: 151,
-  //   name: 'Mew',
-  //   image:
-  //     'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png',
-  //   pokedexEntry:
-  //     'So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.',
-  // }
 ]
